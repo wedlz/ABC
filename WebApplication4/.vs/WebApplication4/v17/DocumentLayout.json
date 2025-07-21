@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ABC\\WebApplication4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2148D2C7-8AD0-4076-BEFB-FA2072D74433}|WebApplication4\\WebApplication4.csproj|c:\\users\\admin\\source\\repos\\abc\\webapplication4\\webapplication4\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2148D2C7-8AD0-4076-BEFB-FA2072D74433}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ABC\\WebApplication4\\WebApplication4\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "WebApplication4\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ABC\\WebApplication4\\WebApplication4\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "WebApplication4\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-21T10:28:48.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
